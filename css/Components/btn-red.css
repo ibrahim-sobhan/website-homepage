@@ -1,0 +1,14 @@
+.btn-red {
+
+	background-color: #eeebdd;
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: black;
+	transition: 0.3s;
+
+}
+
+.btn-red:hover {
+	color: #eeebdd;
+	background-color: black;
+}
